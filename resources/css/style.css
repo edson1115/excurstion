@@ -1,0 +1,81 @@
+html {
+  background: black;
+}
+
+#mainHeader {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+#underlined {
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+#secondHeader {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+#fourthPara {
+  font-family: Verdana;
+  color: Gray;
+  font-size: 21px;
+  text-align: center;
+}
+
+#lastHeading {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+
+}
+
+/*  #camp-center img {
+	margin-left: auto;
+	margin-right: auto;
+*/
+
+#c-logo {
+  font-family: Verdana;
+  color: Gray;
+  font-size: 21px;
+  text-align: right;
+}
+
+.Centerer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#camp img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#cell img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
